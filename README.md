@@ -2,7 +2,7 @@
 
 Best Task Manager App
 
-<img src="ScreenShot.png" alt="">
+<img src="screenshot.png" alt="">
 
 Overview
 The Best Task Manager App is a sleek and user-friendly daily task management application designed to help you stay organized, focused, and productive. With an intuitive interface and essential features, it simplifies your task management process, ensuring you never miss an important deadline again!
